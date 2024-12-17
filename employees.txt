@@ -1,0 +1,2 @@
+1209,JOHN CARLO,Mataas na Lupa,0909090,Full-time,17800.0
+0101,JC,Mataas ,00101010,Part-time,12400.0,50.0
